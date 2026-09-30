@@ -1,0 +1,17 @@
+{
+  "name": "AIDE ELITE",
+  "short_name": "AIDE",
+  "description": "AI-Powered Business Engine",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#03070c",
+  "theme_color": "#03070c",
+  "icons": [
+    {
+      "src": "/aide-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
